@@ -9,4 +9,4 @@
 - `conditions/exercices/couverture` : [display/cover.cpp](https://github.com/ThonEtRiz/display/blob/master/cover.cpp)
 ## [Boucles](http://www.iut-fbleau.fr/sitebp/apl11/boucles1/)
 -- -- --
-> Vous pouvez accéder aux consignes en cliquant sur les titres "Conditions", "Boucles", etc..
+> Si cela vous intéresse, vous pouvez accéder aux consignes en cliquant sur les titres "Conditions", "Boucles", etc..
