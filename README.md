@@ -6,4 +6,4 @@ conditions/exercices/produit    : *link*<br/>
 conditions/exercices/maximum    : *link*<br/>
 conditions/exercices/mention    : *link*<br/>
 conditions/exercices/ordre      : *link*<br/>
-conditions/exercices/couverture : https://github.com/ThonEtRiz/cover
+conditions/exercices/couverture : https://github.com/ThonEtRiz/display/blob/master/cover.cpp
