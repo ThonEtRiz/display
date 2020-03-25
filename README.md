@@ -1,5 +1,5 @@
 -- -- --
-> Les exercices proviennent du site de l'institut universitaire de technologie de Sénart-Fontainebleau.
+> Les exercices proviennent du site de l'institut universitaire de technologie de Fontainebleau.
 -- -- --
 # PRODUCTION<br/>
 ## [Conditions](http://www.iut-fbleau.fr/sitebp/apl11/conditions/conditions.pdf)
